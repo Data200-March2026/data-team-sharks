@@ -9,7 +9,7 @@ Project Title: Identifying Early Warning Signals of Diabetes Risk Using Routine 
 1. Nupur Lamichhane (nupurlamichhane)
 2. Rachel Pathak (rachie13)
 3. Ujena Manandhar (ujenamanandhar)
-4. Himani Bhattarai (himani67)
+4. Himani Bhattarai (Himanibhattarai986)
 
 ### Task Division
 - Rachel Pathak: *Responsible for literature review and background research, including identifying relevant studies on diabetes prediction and summarizing key findings. Also contributed to defining the problem statement and aligning the project with existing research.*
