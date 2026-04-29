@@ -1,8 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Oz3VlXJ8)
 # Data 200 Applied Statistical Analysis  
 ## Project Work  
 **“Exploring Real-World Data through Statistical and Predictive Modeling”**
 
 ---
+
+## The App
+
+link: [https://diabetes-risk-analyzer-team-shark.streamlit.app](https://diabetes-risk-analyzer-team-shark.streamlit.app)
 
 ### Objective:  
 Students will apply statistical and predictive modeling techniques to analyze a real-world dataset relevant to their areas of interest (e.g., Healthcare, Marketing, Sports, Finance, Education, etc.). The project will focus on:  
