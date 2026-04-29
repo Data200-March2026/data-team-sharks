@@ -5,6 +5,10 @@
 
 ---
 
+## The App
+
+link: [https://diabetes-risk-analyzer-team-shark.streamlit.app](https://diabetes-risk-analyzer-team-shark.streamlit.app)
+
 ### Objective:  
 Students will apply statistical and predictive modeling techniques to analyze a real-world dataset relevant to their areas of interest (e.g., Healthcare, Marketing, Sports, Finance, Education, etc.). The project will focus on:  
 - Cleaning and structuring data.  
